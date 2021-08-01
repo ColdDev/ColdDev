@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colddev&" alt="colddev" /></a> </p>
 
-- 🔭 I’m currently working on [PSU's new frontend](https://github.com/psuDevelopment)
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **React.js, Next.js, Prisma & PostgreSQL**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/psu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="psu" height="30" width="40" /></a>
+<a href="https://colddev.cc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="psu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
