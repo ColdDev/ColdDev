@@ -1,5 +1,13 @@
-# Goodbye!
+# Hello!
 
-It's been fun, but it's time for me to leave under this alias and pursue a career under my real identity.
+My name's Cold. I'm an aspiring software engineer from England with experience in the following languages:
+- Java
+- JavaScript/TypeScript
+- Lua
+- Nim
 
-**Need to contact me? Email me!** colddev@pm.me
+I also have experience with miscellaneous technologies, such as:
+- Docker
+- Kubernetes
+
+I'm learning more things every day. **Follow me to support my journey.**
